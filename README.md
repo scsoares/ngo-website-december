@@ -18,7 +18,7 @@ Below, you will find instructions on how to open the website.
 
    or download this repo as a [ZIP file](https://github.com/scsoares/ngo-website/archive/master.zip).
 
-2. Extract the downloaded ZIP file and you should have a folder named `ngo-website-master`
+2. Extract the downloaded ZIP file and you should have a folder named `ngo-website-december-master`
 
 3. Open the folder on your File Explorer and click on the index.html file.
 
