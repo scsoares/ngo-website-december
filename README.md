@@ -13,10 +13,10 @@ Below, you will find instructions on how to open the website.
 ### Installing
 
 1. ```
-   git clone https://github.com/scsoares/ngo-website
+   git clone https://github.com/scsoares/ngo-website-december
    ```
 
-   or download this repo as a [ZIP file](https://github.com/scsoares/ngo-website/archive/master.zip).
+   or download this repo as a [ZIP file](https://github.com/scsoares/ngo-website-december/archive/master.zip).
 
 2. Extract the downloaded ZIP file and you should have a folder named `ngo-website-december-master`
 
